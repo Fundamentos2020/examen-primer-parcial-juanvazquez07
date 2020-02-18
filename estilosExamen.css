@@ -1,0 +1,40 @@
+img{
+    width: 100px;
+}
+
+#img2{
+   padding-left: 800px;
+}
+
+ul.span{
+
+}
+
+.header.h1{
+    padding-right: 100px;
+    padding-left: 100px;
+    padding-top: 100px;
+    background-color: rgba(rgb(34, 24, 121), green, blue, alpha);
+}
+
+h1{
+    text-align: center;
+}
+
+p{
+    padding-right: 100px;
+    padding-left: 100px;
+}
+
+ol{
+    padding-right: 100px;
+    padding-left: 100px;
+}
+
+div.nave{
+    
+    background-color: red;
+}
+
+
+
